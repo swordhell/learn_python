@@ -1,0 +1,10 @@
+module("resmgr")
+Arms_Axe=1
+Arms_Hammer=2
+Arms_Rod=3
+Arms_Crossbow=4
+Arms_Shield=5
+Armor_HeavyHead=6
+Armor_HeavyBody=7
+Armor_HeavyLeg=8
+Armor_HeavyFoot=9

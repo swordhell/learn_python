@@ -1,0 +1,16 @@
+module("resmgr")
+Tre_Gradu_Gold=1
+Tre_Equp_Make=2
+Tre_Bat_Exp=3
+Tre_Login_Crystal=4
+Tre_Gradu_Repu=5
+Tre_Attr_Hp=6
+Tre_Attr_Def=7
+Tre_Attr_Speed=8
+Tre_Attr_Atk=9
+Tre_Equp_Gold=10
+Tre_Equp_Repu=11
+Tre_Exped_Gold=12
+Tre_Arena_Honor=13
+Tre_Mine_Up=14
+Tre_Exped_God=15

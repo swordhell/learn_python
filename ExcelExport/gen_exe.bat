@@ -1,0 +1,1 @@
+pyinstaller -F -c ./export_excel.py

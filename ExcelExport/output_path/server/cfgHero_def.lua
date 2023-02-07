@@ -1,0 +1,16 @@
+module("resmgr")
+Hero_0001=1
+Hero_0002=2
+Hero_0003=3
+Hero_0004=4
+Hero_0005=5
+Hero_0006=6
+Hero_0007=7
+Hero_0008=8
+Hero_0009=9
+Hero_0010=10
+Hero_0011=11
+Hero_0012=12
+Hero_0013=13
+Hero_0014=14
+Hero_0015=15
