@@ -25,7 +25,8 @@ import string
 letters = string.ascii_lowercase
 letters += string.ascii_uppercase
 letters += string.digits
-letters += '!@#&*+-'
+# 华为数据库字段要求
+letters += '~!@#$%A*-_=+?,()&'
 # letters += string.punctuation
 
 print ( ''.join(random.choice(letters) for i in range(16)) )
